@@ -4,6 +4,7 @@
     "forceUpdate": false,
     "updateMessage": "Please update the app as soon as possible!"
   },
+  "captchaUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/Captcha",
   "cbcssUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/ResultView_ctrl/",
   "cbsssUrl": "https://14.139.185.89/cbcsshrCamp/index.php?module=public&page=viewMrks",
   "pgcssUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/PGResultView_ctrl/",
