@@ -1,0 +1,443 @@
+{
+  "version": {
+    "latest": "1.1.22",
+    "forceUpdate": false,
+    "updateMessage": "Please update the app as soon as possible!"
+  },
+  "cbcssUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/ResultView_ctrl/",
+  "cbsssUrl": "https://14.139.185.89/cbcsshrCamp/index.php?module=public&page=viewMrks",
+  "pgcssUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/PGResultView_ctrl/",
+  "cbcssExams": [
+    {
+      "id": "5",
+      "examName": "First Semester Cbcs January 2018"
+    },
+    {
+      "id": "8",
+      "examName": "Second Semester Cbcs May 2018"
+    },
+    {
+      "id": "10",
+      "examName": "Third Semester Cbcs October 2018"
+    },
+    {
+      "id": "13",
+      "examName": "First Semester Cbcs December 2018"
+    },
+    {
+      "id": "14",
+      "examName": "First Semester Cbcs Supplementary December 2018"
+    },
+    {
+      "id": "15",
+      "examName": "Fourth Semester Cbcs May 2019"
+    },
+    {
+      "id": "17",
+      "examName": "Second Semester Cbcs May 2019"
+    },
+    {
+      "id": "22",
+      "examName": "Third Semester Cbcs October 2019"
+    },
+    {
+      "id": "23",
+      "examName": "Fifth Semester Cbcs October 2019"
+    },
+    {
+      "id": "24",
+      "examName": "First Semester Cbcs October 2019"
+    },
+    {
+      "id": "27",
+      "examName": "Fifth Semester Cbcs 2017 Admission Supplementary February 2020"
+    },
+    {
+      "id": "29",
+      "examName": "Sixth Semester Cbcs March 2020"
+    },
+    {
+      "id": "30",
+      "examName": "Fourth Semester Cbcs March 2020"
+    },
+    {
+      "id": "33",
+      "examName": "Second Semester Cbcs October 2020"
+    },
+    {
+      "id": "34",
+      "examName": "First Sem BVoc Degree Septemper 2020"
+    },
+    {
+      "id": "36",
+      "examName": "Fifth Semester Cbcs January 2021"
+    },
+    {
+      "id": "42",
+      "examName": "Sixth Semester Cbcs April 2021"
+    }
+  ],
+  "pgcssExams": [
+    {
+      "id": "20",
+      "examName": "First Semester Pgcss August 2019"
+    },
+    {
+      "id": "12",
+      "examName": "First Semester Pgcss December 2018"
+    },
+    {
+      "id": "6",
+      "examName": "First Semester Pgcss February 2018"
+    },
+    {
+      "id": "19",
+      "examName": "First Semester Pgcss May 2019"
+    },
+    {
+      "id": "25",
+      "examName": "First Semester Pgcss November 2019"
+    },
+    {
+      "id": "26",
+      "examName": "First Semester Pgcss Supplementary March 2020"
+    },
+    {
+      "id": "16",
+      "examName": "Fourth Semester Pgcss May 2019"
+    },
+    {
+      "id": "31",
+      "examName": "Fourth Semester Pgcss May 2020"
+    },
+    {
+      "id": "28",
+      "examName": "Second Semester Pgcss February 2020"
+    },
+    {
+      "id": "9",
+      "examName": "Second Semester Pgcss June 2018"
+    },
+    {
+      "id": "18",
+      "examName": "Second Semester Pgcss June 2019"
+    },
+    {
+      "id": "35",
+      "examName": "Second Semester Pgcss November 2020"
+    },
+    {
+      "id": "11",
+      "examName": "Third Semester Pgcss November 2018"
+    },
+    {
+      "id": "21",
+      "examName": "Third Semester Pgcss October 2019"
+    }
+  ],
+
+  "cbcsssExams": [
+    {
+      "id": "201",
+      "examName": "First Semester Degree  December 2013"
+    },
+    {
+      "id": "204",
+      "examName": "First Semester Degree  November 2014"
+    },
+    {
+      "id": "209",
+      "examName": "First Semester Degree  November 2015"
+    },
+    {
+      "id": "301",
+      "examName": "First Semester Degree  January 2016 "
+    },
+    {
+      "id": "302",
+      "examName": "First Semester Degree January 2016 "
+    },
+    {
+      "id": "600",
+      "examName": "First Semester Degree Special June 2016"
+    },
+    {
+      "id": "217",
+      "examName": "First Semester Degree  November 2016"
+    },
+    {
+      "id": "312",
+      "examName": "First Semester Degree  November 2016 (Bvoc)"
+    },
+    {
+      "id": "226",
+      "examName": "First Semester Supplementary Degree  January 2018"
+    },
+    {
+      "id": "400",
+      "examName": "First Semester Degree  January 2018 (Bvoc)"
+    },
+    {
+      "id": "227",
+      "examName": "First Semester Degree  January 2018 (Cyber Forensic)"
+    },
+    {
+      "id": "237",
+      "examName": "First Semester Bpe Special Supplementary Degree  September 2018"
+    },
+    {
+      "id": "239",
+      "examName": "First Semester Supplementary Degree  December 2018 "
+    },
+    {
+      "id": "240",
+      "examName": "First Semester Degree  December 2018 "
+    },
+    {
+      "id": "500",
+      "examName": "First Semester Degree  September 2019 (Bvoc)"
+    },
+    {
+      "id": "251",
+      "examName": "First Semester Supplementary Degree  November 2019"
+    },
+    {
+      "id": "252",
+      "examName": "First Semester Supplementary Degree  November 2019(Cyber Forensic)"
+    },
+    {
+      "id": "202",
+      "examName": "Second Semester Degree  May 2014"
+    },
+    {
+      "id": "206",
+      "examName": "Second Semester Degree  May 2015"
+    },
+    {
+      "id": "303",
+      "examName": "Second Semester Degree  March 2016 (B.voc)"
+    },
+    {
+      "id": "212",
+      "examName": "Second Semester Degree  May 2016"
+    },
+    {
+      "id": "222",
+      "examName": "Second Semester Degree  May 2017"
+    },
+    {
+      "id": "310",
+      "examName": "Second Semester Degree  September 2017 (Bvoc)"
+    },
+    {
+      "id": "231",
+      "examName": "Second Semester Bpe Supplementary Degree  April 2018"
+    },
+    {
+      "id": "232",
+      "examName": "Second Semester Supplementary Degree  May 2018"
+    },
+    {
+      "id": "233",
+      "examName": "Second Semester Degree  May 2018 (Cyber Forensic)"
+    },
+    {
+      "id": "234",
+      "examName": "Second Semester Bpe Special Supplementary Degree  September 2018"
+    },
+    {
+      "id": "401",
+      "examName": "Second Semester Degree  January 2019 (Bvoc)"
+    },
+    {
+      "id": "244",
+      "examName": "Second Semester Degree  March 2019 (Cyber Forensic)"
+    },
+    {
+      "id": "245",
+      "examName": "Second Semester Supplementary Degree  May 2019"
+    },
+    {
+      "id": "501",
+      "examName": "Second Semester Degree  February 2020 (Bvoc)"
+    },
+    {
+      "id": "203",
+      "examName": "Third Semester Degree  October 2014"
+    },
+    {
+      "id": "207",
+      "examName": "Third Semester Degree  October 2015"
+    },
+    {
+      "id": "213",
+      "examName": "Third Semester Degree  June 2016"
+    },
+    {
+      "id": "215",
+      "examName": "Third Semester Degree  October 2016"
+    },
+    {
+      "id": "224",
+      "examName": "Third Semester Degree  October 2017"
+    },
+    {
+      "id": "235",
+      "examName": "Third Semester Supplementary Degree  October 2018"
+    },
+    {
+      "id": "315",
+      "examName": "Third Semester Degree  October 2018 (B.voc)"
+    },
+    {
+      "id": "238",
+      "examName": "Third Semester Degree  October 2018 (Cyber Forensic"
+    },
+    {
+      "id": "403",
+      "examName": "Third Semester Degree  July 2019(Bvoc)"
+    },
+    {
+      "id": "247",
+      "examName": "Third Semester Degree  October 2019 (Cyber Forensic)"
+    },
+    {
+      "id": "248",
+      "examName": "Third Semester Supplementary Degree  October 2019"
+    },
+    {
+      "id": "205",
+      "examName": "Fourth Semester Degree  March 2015"
+    },
+    {
+      "id": "214",
+      "examName": "Fourth Semester Degree  August 2016"
+    },
+    {
+      "id": "211",
+      "examName": "Fourth Semester Degree  April 2016"
+    },
+    {
+      "id": "218",
+      "examName": "Fourth Semester Degree  March 2017"
+    },
+    {
+      "id": "228",
+      "examName": "Fourth Semester Degree  March 2018"
+    },
+    {
+      "id": "316",
+      "examName": "Fourth Semester Degree  November 2018 (B.voc)"
+    },
+    {
+      "id": "242",
+      "examName": "Fourth Semester Supplementary Degree  March 2019"
+    },
+    {
+      "id": "243",
+      "examName": "Fourth Semester Degree  March 2019"
+    },
+    {
+      "id": "404",
+      "examName": "Fourth Semester Degree  July 2019(Bvoc)"
+    },
+    {
+      "id": "319",
+      "examName": "Fourth Semester Supplementary Degree  March 2020"
+    },
+    {
+      "id": "255",
+      "examName": "Fourth Semester Degree  March 2020 (Cyber Forensic)"
+    },
+    {
+      "id": "208",
+      "examName": "Fifth Semester Degree  October 2015"
+    },
+    {
+      "id": "216",
+      "examName": "Fifth Semester Degree  October 2016"
+    },
+    {
+      "id": "221",
+      "examName": "Fifth Semester Supplementary Degree  April 2017"
+    },
+    {
+      "id": "313",
+      "examName": "Fifth Semester Degree  June 2018 (Bvoc)"
+    },
+    {
+      "id": "225",
+      "examName": "Fifth Semester Degree  October 2017"
+    },
+    {
+      "id": "230",
+      "examName": "Fifth Semester Supplementary Degree  March 2018"
+    },
+    {
+      "id": "236",
+      "examName": "Fifth Semester Degree  October 2018"
+    },
+    {
+      "id": "317",
+      "examName": "Fifth Semester Degree  March 2019(Bvoc)"
+    },
+    {
+      "id": "246",
+      "examName": "Fifth Semester Supplementary Degree  May 2019"
+    },
+    {
+      "id": "249",
+      "examName": "Fifth Semester Supplementary Degree  October 2019"
+    },
+    {
+      "id": "250",
+      "examName": "Fifth Semester Degree  October 2019(Cyber Forensic)"
+    },
+    {
+      "id": "405",
+      "examName": "Fifth Semester Degree  December 2019(Bvoc)"
+    },
+    {
+      "id": "253",
+      "examName": "Fifth Semester Supplementary Degree  March 2020 (Cyber Forensic)"
+    },
+    {
+      "id": "210",
+      "examName": "Sixth Semester Degree  March 2016"
+    },
+    {
+      "id": "219",
+      "examName": "Sixth Semester Degree  March 2017"
+    },
+    {
+      "id": "229",
+      "examName": "Sixth Semester Degree  March 2018 "
+    },
+    {
+      "id": "314",
+      "examName": "Sixth Semester Degree  June 2018 (Bvoc)"
+    },
+    {
+      "id": "241",
+      "examName": "Sixth Semester Degree  March 2019"
+    },
+    {
+      "id": "318",
+      "examName": "Sixth Semester Degree  April 2019 (Bvoc)"
+    },
+    {
+      "id": "320",
+      "examName": "Sixth Semester Supplementary Degree  March 2020"
+    },
+    {
+      "id": "254",
+      "examName": "Sixth Semester Degree  March 2020 (Cyber Forensic)"
+    },
+    {
+      "id": "502",
+      "examName": "Sixth Semester Degree  March 2020 (Bvoc)"
+    }
+  ],
+
+  "examNotificationUrl": "https://www.mgu.ac.in/exam-category/exam-notifications/"
+}
