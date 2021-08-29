@@ -441,6 +441,5 @@
   ],
 
   "examNotificationUrl": "https://www.mgu.ac.in/exam-category/exam-notifications/",
-  "theoryExamUrl": "https://www.mgu.ac.in/exam-category/time-table-for-theory-examinations/",
-  "praticalExamUrl": "https://www.mgu.ac.in/exam-category/time-table-for-practicals/"
+  "examTimeTableUrl": "https://www.mgu.ac.in/exam-category/exam-time-tables/"
 }
