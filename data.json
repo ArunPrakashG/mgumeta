@@ -1,8 +1,8 @@
 {
   "version": {
-    "latest": "1.1.22",
+    "latest": "1.1.24",
     "forceUpdate": false,
-    "updateMessage": "Please update the app as soon as possible!"
+    "updateMessage": "Please update the app!"
   },
   "captchaUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/Captcha",
   "cbcssUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/ResultView_ctrl/",
