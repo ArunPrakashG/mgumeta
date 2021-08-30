@@ -5,10 +5,10 @@
     "updateMessage": "Please update the app!"
   },
   "captchaUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/Captcha",
-  "cbcssUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/ResultView_ctrl/",
-  "cbsssUrl": "https://14.139.185.89/cbcsshrCamp/index.php?module=public&page=viewMrks",
+  "cbcsUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/ResultView_ctrl/",
+  "cbcssUrl": "https://14.139.185.89/cbcsshrCamp/index.php?module=public&page=viewMrks",
   "pgcssUrl": "https://dsdc.mgu.ac.in/exQpMgmt/index.php/public/PGResultView_ctrl/",
-  "cbcssExams": [
+  "cbcsExams": [
     {
       "id": "5",
       "examName": "First Semester Cbcs January 2018"
@@ -136,8 +136,7 @@
       "examName": "Third Semester Pgcss October 2019"
     }
   ],
-
-  "cbcsssExams": [
+  "cbcssExams": [
     {
       "id": "201",
       "examName": "First Semester Degree  December 2013"
@@ -439,7 +438,6 @@
       "examName": "Sixth Semester Degree  March 2020 (Bvoc)"
     }
   ],
-
   "examNotificationUrl": "https://www.mgu.ac.in/exam-category/exam-notifications/",
   "examTimeTableUrl": "https://www.mgu.ac.in/exam-category/exam-time-tables/"
 }
